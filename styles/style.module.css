@@ -1,0 +1,16 @@
+.navBar{ 
+    background-color: #5a23c8;
+    display: flex; 
+    justify-content: space-between; 
+    padding: 0.5rem; 
+    color: white; 
+} 
+
+.heroTitle{ 
+    text-align: center; 
+    color: white; 
+} 
+
+body { 
+    background-color: #212121; 
+}
