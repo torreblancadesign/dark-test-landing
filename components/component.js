@@ -1,7 +1,7 @@
 
 
 import React from 'react';
-import styles from '../styles/style.module.css'; 
+
 const NavigationBar = () => {
   return (
     <div style={{backgroundColor: '#5a23c8', color: 'white'}}>
@@ -18,3 +18,4 @@ const NavigationBar = () => {
 };
 
 export default NavigationBar;
+ 
